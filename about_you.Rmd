@@ -14,7 +14,7 @@ date: "`r Sys.Date()`"
 Here are just a few questions so I can get to know you and so you can get practice submitting an assignment in Canvas.  For each question, insert your answer underneath. Make sure each answer is at the minimum a complete sentence with correctly spelled words and correct puncuation. 
 
 ## A short history of you.  
-Where did you attend High School, and did you graduate? Compare english class to math, is one easier for you than the other? Finally which subject did you do the best in? Your answer should have at least two sentences devoted to each question.  
+Where did you attend High School, and did you graduate? Compare English class to math, is one easier for you than the other? Finally which subject did you do the best in? Your answer should have at least two sentences devoted to each question.  
   
 ### my answer     
 Yes, I did go to high school and I graduated. I went to Quart Hill High and was treasurer of BSU. I love math more than any subject. Algebra is my favorite. I did the best in math and science. I really enjoyed anatomy. 
@@ -26,7 +26,7 @@ Yes, I did go to high school and I graduated. I went to Quart Hill High and was 
  For this class  you need a computer you can use at home.  So, what kind is it (windows, Apple, Linux)?  On a scale of 1 to 10, where 1 is a total dummy (doesn't know a mouse from a keyboard) and 10 is a complete geek (knows computer stuff in and out) How do you rate yourself?  You also need to have have internet access. How is your connection to the internet where you live?
 
 ### my answer   
-I do have a ipad that I can use at home. 
+I do have a iPad that I can use at home. It is an Apple product, but can also use Microsoft. I would say I'm like a 6 or 7. If you show be once I got it, but I might be a little confused. I do have intranet access and my connection is usually pretty strong. 
    
 
 ## Others and You?   
